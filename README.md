@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Mahammad Mobin 👋
 
-<!--
-**MahammadMobin/MahammadMobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 I'm a passionate Software Engineer from Bangladesh.
+- 🌱 I’m currently learning **Machine Learning**, **AI**, and **Android Development**.
+- 🎯 My goal is to make impactful contributions in **Open Source** and improve my skills.
+- 🌍 I love exploring **space research**, **bioinformatics**, and **data mining**.
 
-Here are some ideas to get you started:
+## Technologies I Use
+- Languages: **Java**, **Kotlin**, **Python**, **SQL**
+- Tools: **GitHub**, **Firebase**, **Android Studio**, **VS Code**
+- Interests: **Machine Learning**, **AI**, **Android Development**, **Space Research**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- 📧 [Email me](mailto:example@example.com)
+- 🌐 [My Portfolio](https://yourportfolio.com)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/yourprofile)
