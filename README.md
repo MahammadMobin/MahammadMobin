@@ -1,17 +1,62 @@
 # Hi there, I'm Mahammad Mobin 👋
 
-## About Me
-- 💻 I'm a passionate Software Engineer from Bangladesh.
-- 🌱 I’m currently learning **Machine Learning**, **AI**, and **Android Development**.
-- 🎯 My goal is to make impactful contributions in **Open Source** and improve my skills.
-- 🌍 I love exploring **space research**, **bioinformatics**, and **data mining**.
+## 👨‍💻 About Me
+- I'm a passionate **Android Developer** from **Bangladesh**.
+- 🌱 I’m currently learning **Kotlin**, **Jetpack Compose**, and **Machine Learning** for Android.
+- 📱 I specialize in building **Android Apps** with **Kotlin**, **Firebase**, and **MVVM Architecture**.
+- 🎯 My goal is to build **high-quality apps** and contribute to the **Android Development** community.
+- 🚀 I'm always open to learning and collaborating on exciting projects!
 
-## Technologies I Use
-- Languages: **Java**, **Kotlin**, **Python**, **SQL**
-- Tools: **GitHub**, **Firebase**, **Android Studio**, **VS Code**
-- Interests: **Machine Learning**, **AI**, **Android Development**, **Space Research**
+## 💻 Technologies & Tools
+### 🔧 **Languages:**
+- **Kotlin** | **Java** | **Python**
 
-## Connect with me
-- 📧 [Email me](mailto:example@example.com)
-- 🌐 [My Portfolio](https://yourportfolio.com)
-- 🌍 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+### 📱 **Android Development:**
+- **Jetpack Compose** | **MVVM Architecture** | **Firebase** | **Room Database** | **Retrofit** | **Coroutines** | **Hilt**
+
+### 🌐 **Tools & Platforms:**
+- **Android Studio** | **Git** | **GitHub** | **Firebase Console** | **Postman** | **VS Code**
+
+### 🌱 **I’m currently learning:**
+- **Machine Learning for Android**
+- **Clean Architecture**
+
+---
+
+## 🚀 My GitHub Stats:
+![MahammadMobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 🧑‍🤝‍🧑 Connect with me:
+- 📧 **Email:** [example@example.com](mailto:example@example.com)
+- 🌍 **Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)
+- 🌐 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- 📸 **Instagram:** [@yourhandle](https://instagram.com/yourhandle)
+
+---
+
+## 🏆 Notable Projects:
+### 1. **E-Commerce Food App**
+   - An Android app for an E-commerce food delivery service with **MVVM Architecture** and **Firebase Backend**.
+   - [Check it out](https://github.com/MahammadMobin/EcommerceFoodApp)
+
+### 2. **Weather App**
+   - A simple **Weather App** using **OpenWeather API** and **Room Database**.
+   - [Check it out](https://github.com/MahammadMobin/WeatherApp)
+
+---
+
+## 🌟 Contribution Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahammadMobin&layout=compact&theme=radical)](https://github.com/MahammadMobin)
+
+---
+
+## 🏅 Support me:
+If you find my work useful, feel free to ⭐️ my repositories and contribute to them!
+
+## 📢 Contributions:
+- 💡 Open-source contributions are always welcome!  
+- 🎯 Feel free to open issues or PRs on my repos!
+
