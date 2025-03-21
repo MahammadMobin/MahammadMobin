@@ -9,7 +9,7 @@
 
 ## 💻 Technologies & Tools I Use:
 <div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5?logo=kotlin&logoColor=white" alt="Kotlin" height="30">
+  <img src="https://images.app.goo.gl/4oY2&logoColor=white" alt="Kotlin" height="30">
   <img src="https://img.shields.io/badge/Java-%23F7A800?logo=java&logoColor=white" alt="Java" height="30">
   <img src="https://img.shields.io/badge/Python-%2314354C?logo=python&logoColor=white" alt="Python" height="30">
   <img src="https://img.shields.io/badge/Android-%230095D5?logo=android&logoColor=white" alt="Android" height="30">
