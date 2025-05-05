@@ -22,8 +22,8 @@ I view projects not just as tasks but as opportunities to engage with users and 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,express,mongodb,postgres,mysql,nodejs,django,redux,tailwind,firebase,prisma" />
-    <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,firebase," />
+    <img width='90' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
 
   </a>
 </p>
