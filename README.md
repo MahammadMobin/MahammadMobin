@@ -1,64 +1,71 @@
-# Hi there, I'm Mahammad Mobin 👋
 
-## 👨‍💻 About Me
-- I'm a passionate **Android Developer** from **Bangladesh**.
-- 🌱 I’m currently learning **Kotlin**, **Jetpack Compose**, and **Machine Learning** for Android.
-- 📱 I specialize in building **Android Apps** with **Kotlin**, **Firebase**, and **MVVM Architecture**.
-- 🎯 My goal is to build **high-quality apps** and contribute to the **Android Development** community.
-- 🚀 I'm always open to learning and collaborating on exciting projects!
+<img style="width:100%;border-radius: 0px 0px 10px 10px" src="./assets/GITHUB_BNR_2.png">
+<br/>
 
-## 💻 Technologies & Tools I Use:
-<div align="center">
-  <img src="https://images.app.goo.gl/4oY2&logoColor=white" alt="Kotlin" height="30">
-  <img src="https://img.shields.io/badge/Java-%23F7A800?logo=java&logoColor=white" alt="Java" height="30">
-  <img src="https://img.shields.io/badge/Python-%2314354C?logo=python&logoColor=white" alt="Python" height="30">
-  <img src="https://img.shields.io/badge/Android-%230095D5?logo=android&logoColor=white" alt="Android" height="30">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-%230095D5?logo=jetpack&logoColor=white" alt="Jetpack Compose" height="30">
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=white" alt="Firebase" height="30">
-  <img src="https://img.shields.io/badge/MVVM-%23FF4B4B?logo=python&logoColor=white" alt="MVVM Architecture" height="30">
-  <img src="https://img.shields.io/badge/Room%20Database-%230095D5?logo=android&logoColor=white" alt="Room Database" height="30">
-  <img src="https://img.shields.io/badge/Coroutines-%2341B1C3?logo=kotlin&logoColor=white" alt="Coroutines" height="30">
-  <img src="https://img.shields.io/badge/Hilt-%23095C87?logo=android&logoColor=white" alt="Hilt Dependency Injection" height="30">
+# Hello World 😍
+### I'm S M Piyas Mahamude Alif,
+
+And I'm a Software Developer (Full Stack). I have been doing web application development for the last 2 years. I am always interested in learning new technologies. I think I am a hard-working person and I like errors in coding because errors make us stronger for logic buildup!
+
+I strongly value collaboration and teamwork, leveraging my expertise to foster continuous innovation 🔗.<br/>
+I view projects not just as tasks but as opportunities to engage with users and create impactful solutions 💡.
+
+<br/>
+
+
+## ⚡ **Technologies That I Know** : }
+<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,arduino" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,express,mongodb,postgres,mysql,nodejs,django,redux,tailwind,firebase,prisma" />
+    <img width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" />
+
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,npm,vite,vercel,netlify,vscode,postman" />
+  </a>
+</p>
+<br/>
+
+## 👀 **My Current Stats** : }
+<div align="center"> 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PIYAS79&theme=merko&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
+<br/>
 
-### 🌱 **I’m currently learning:**
-- **Machine Learning for Android**
-- **Clean Architecture**
 
----
 
-## 🚀 My GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahammadMobin&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
+| ![](https://github-readme-stats.vercel.app/api?username=PIYAS79&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PIYAS79&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| :---: | :---: |
+<br/>
 
----
+## 🤨 **About Me** : }
 
-## 🧑‍🤝‍🧑 Connect with me:
-- 📧 **Email:** [example@example.com](mailto:example@example.com)
-- 🌍 **Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)
-- 🌐 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-- 📸 **Instagram:** [@yourhandle](https://instagram.com/yourhandle)
+<p style=" text-align: justify; font-weight:100">
+As a DEVELOPER, my expertise lies in crafting dynamic and efficient solutions within
+the realms of web development. My goal is to develop transformative technological solutions by reinventing them to bring about significant change. I aim to utilize my development skills not just to innovate but to create something that fundamentally changes the way people interact and engage with technology on a global scale 🔥  
+</p>
 
----
 
-## 🏆 Notable Projects:
-### 1. **E-Commerce Food App**
-   - An Android app for an **E-commerce food delivery service** with **MVVM Architecture** and **Firebase Backend**.
-   - [Check it out](https://github.com/MahammadMobin/EcommerceFoodApp)
+<ul>
 
-### 2. **Weather App**
-   - A simple **Weather App** using **OpenWeather API** and **Room Database**.
-   - [Check it out](https://github.com/MahammadMobin/WeatherApp)
+ 😄 **Fun fact** : } 
+ <br/>
+I thought I could call myself a web developer only by learning HTML & CSS BUT I'm still confused!
 
----
+🐺 **My understanding** : }
+<br/>
+" No matter how, what, and where I learn, I want to be confident in it "
+</ul>
 
-## 🏅 Support me:
-If you find my work useful, feel free to ⭐️ my repositories and contribute to them!
 
-## 📢 Contributions:
-- 💡 Open-source contributions are always welcome!  
-- 🎯 Feel free to open issues or PRs on my repos!
 
+<!-- MERN Stack Developer || JavaScript expert || React Developer || Logic & Function Designer -->
