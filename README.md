@@ -23,25 +23,28 @@
 
 ---
 
-## 📊 GitHub Stats (Android Vibes 💚)
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&theme=chartreuse-dark&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahammadMobin&theme=chartreuse-dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&theme=gruvbox_light&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahammadMobin&theme=gruvbox_light&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## ⏱️ My Contributions in Code 💚
+## ⏱️ Contribution Breakdown
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahammadMobin&theme=chartreuse_dark" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahammadMobin&theme=github" width="96%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahammadMobin&theme=chartreuse_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahammadMobin&theme=chartreuse_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahammadMobin&theme=github" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahammadMobin&theme=github" width="48%" />
 </p>
+
 
 
 <h2 align="center">🌈 Core Skills & Tools</h2>
