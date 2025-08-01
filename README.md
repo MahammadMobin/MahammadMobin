@@ -17,34 +17,27 @@
 
 ---
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&hide_title=true&hide_rank=false&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=10&disable_animations=false" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahammadMobin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="47%" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Language Insights & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&theme=radical&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahammadMobin&theme=radical" width="45%" />
-</p>
-
----
-
-## ⏱️ Contributions & Languages
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahammadMobin&theme=radical" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahammadMobin&theme=tokyonight" width="96%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahammadMobin&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahammadMobin&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahammadMobin&theme=tokyonight" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahammadMobin&theme=tokyonight" width="47%" />
 </p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake.svg" width="700" alt="Contribution Snake Animation"/>
-</p>
-
 
 ---
 
