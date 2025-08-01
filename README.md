@@ -17,7 +17,7 @@
 
 ---
 
-<h2 align="center">🐍 My Contribution Graph (Snake Animation)</h2>
+<h2 align="center">🐍 My GitHub Contribution Graph (Snake Animation)</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake.svg" width="700"/>
 </p>
