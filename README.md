@@ -24,15 +24,9 @@
 
 ---
 
-<h2 align="center">📈 GitHub Insights</h2>
+<h2 align="center">📈 My 3D GitHub Universe</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahammadMobin&column=7&theme=gruvbox" alt="Trophy" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahammadMobin&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&theme=gruvbox" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahammadMobin&layout=compact&theme=gruvbox" height="180">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MahammadMobin&theme=gruvbox" alt="GitHub Activity Graph"/>
+  <img src="https://github.com/MahammadMobin/MahammadMobin/blob/main/profile-3d-contrib/profile-night-green.svg" width="700" alt="3D Contribution Grid"/>
 </p>
 
 ---
