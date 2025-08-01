@@ -5,7 +5,7 @@
 
 <!-- Polished Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=750&color=43A047&center=true&vCenter=true&width=660&lines=Hi,+I%E2%80%99m+My+Name+is+Md+Mobin-+Android+Developer;Software+Engineer+(Data+Science+Major)+from+Bangladesh;Crafting+Elegant+Apps,+Exploring+ML,+Building+the+Future!" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=750&color=43A047&center=true&vCenter=true&width=660&lines=Hi,+I%E2%80%99m+My+Name+is+Md+Mobin-+I+am+Android+Developer;Studies+Software+Engineering+Mejor+in+Data+Science+at+Daffodill+International+University+from+Bangladesh;Crafting+Elegant+Apps,+Exploring+ML,+Building+the+Future!" alt="Animated Typing"/>
 </p>
 
 ---
