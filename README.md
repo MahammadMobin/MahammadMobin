@@ -17,26 +17,24 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kibaheb&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibaheb&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahammadMobin&theme=radical" width="48%" />
 </p>
 
 ---
 
-### 🔥 Contribution Streak & Activity
+### ⏱️ My Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kibaheb&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahammadMobin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahammadMobin&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahammadMobin&theme=radical" />
 </p>
-
----
-
-### 🚀 GitHub Metrics Summary
-
-![Metrics](https://metrics.lecoq.io/kibaheb?template=classic&isocalendar=1&languages=1&lines=1&activity=1&stars=1&followup=1&config.timezone=Asia%2FDhaka)
+[Metrics](https://metrics.lecoq.io/kibaheb?template=classic&isocalendar=1&languages=1&lines=1&activity=1&stars=1&followup=1&config.timezone=Asia%2FDhaka)
 
 
 
