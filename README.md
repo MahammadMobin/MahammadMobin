@@ -24,11 +24,9 @@
 
 ---
 
-<h2 align="center">🌆 My GitHub Skyline</h2>
+<h2 align="center">🐍 Contribution Snake: Full-Color Mode!</h2>
 <p align="center">
-  <a href="https://skyline.github.com/MahammadMobin/2024">
-    <img src="https://api.skyline.github.com/user/your_uid/year/2024" width="600" alt="GitHub Skyline"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake-dark.svg" width="750" alt="Snake Game Contribution"/>
 </p>
 
 ---
