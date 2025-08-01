@@ -21,24 +21,26 @@
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats (Android Vibes 💚)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahammadMobin&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&theme=chartreuse-dark&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahammadMobin&theme=chartreuse-dark" width="48%" />
 </p>
 
 ---
 
-## ⏱️ My Contributions
+## ⏱️ My Contributions in Code 💚
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahammadMobin&theme=radical" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahammadMobin&theme=chartreuse_dark" width="96%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahammadMobin&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahammadMobin&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahammadMobin&theme=chartreuse_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahammadMobin&theme=chartreuse_dark" width="48%" />
 </p>
 
 
