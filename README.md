@@ -24,10 +24,10 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake: Full-Color Mode!</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake-dark.svg" width="750" alt="Snake Game Contribution"/>
+  <img src="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake.svg" width="700" alt="Contribution Snake Animation"/>
 </p>
+
 
 ---
 
