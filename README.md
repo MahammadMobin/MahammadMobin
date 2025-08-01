@@ -27,18 +27,12 @@
 </p>
 
 ---
-
-## ⏱️ My Contributions
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahammadMobin&theme=tokyonight" width="96%" />
-</p>
+## 🧠 Top Languages Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahammadMobin&theme=tokyonight" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahammadMobin&theme=tokyonight" width="48%" />
 </p>
-
 
 
 
