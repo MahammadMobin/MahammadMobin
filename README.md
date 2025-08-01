@@ -5,12 +5,7 @@
 
 <!-- Polished Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3700&pause=850&color=43A047&center=true&vCenter=true&width=800
-  &lines=Hi,+I'm+Md+Mobin+-+Passionate+Android+Developer+%26+Tech+Enthusiast;
-  Currently+studying+Software+Engineering+(Major+in+Data+Science)+at+Daffodil+International+University,+Bangladesh;
-  I+love+building+stunning+apps+with+Kotlin,+Jetpack+Compose,+MVVM,+and+modern+material+UI;
-  Exploring+Machine+Learning+and+AI+integration+for+mobile+platforms+using+Python+and+TensorFlow;
-  Open+Source+believer,+Hackathon+participant,+and+always+up+for+collaboration+and+new+challenges!" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=750&color=43A047&center=true&vCenter=true&width=740&lines=Hi,+I'm+Md+Mobin+-+Android+Developer;Studying+Software+Engineering+(Major+in+Data+Science)+at+Daffodil+International+University,+Bangladesh;Crafting+Elegant+Apps,+Exploring+ML,+Building+the+Future!" alt="Animated Typing"/>
 </p>
 
 
