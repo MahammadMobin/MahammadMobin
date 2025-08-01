@@ -26,13 +26,13 @@
 
 <h2 align="center">📈 GitHub Insights</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&column=7&theme=gruvbox" alt="Trophy" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox" height="180">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahammadMobin&column=7&theme=gruvbox" alt="Trophy" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahammadMobin&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahammadMobin&show_icons=true&theme=gruvbox" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahammadMobin&layout=compact&theme=gruvbox" height="180">
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=gruvbox" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MahammadMobin&theme=gruvbox" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@
   <li>🤖 <b>AI Image Classifier:</b> Kotlin + TFLite, Real-time Computer Vision</li>
   <li>💸 <b>Expense Tracker:</b> SQLite, MVVM, Neat Graph Visualizations</li>
   <li>📊 <b>Student Dashboard:</b> Predictive Analytics + Modern Kotlin UI</li>
-  <li>🔗 <b>Full Project List:</b> <a href="https://github.com/YOUR_USERNAME?tab=repositories">See More</a></li>
+  <li>🔗 <b>Full Project List:</b> <a href="https://github.com/MahammadMobin?tab=repositories">See More</a></li>
 </ul>
 
 ---
