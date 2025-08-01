@@ -24,9 +24,11 @@
 
 ---
 
-<h2 align="center">📈 My 3D GitHub Universe</h2>
+<h2 align="center">🌆 My GitHub Skyline</h2>
 <p align="center">
-  <img src="https://github.com/MahammadMobin/MahammadMobin/blob/main/profile-3d-contrib/profile-night-green.svg" width="700" alt="3D Contribution Grid"/>
+  <a href="https://skyline.github.com/MahammadMobin/2024">
+    <img src="https://api.skyline.github.com/user/your_uid/year/2024" width="600" alt="GitHub Skyline"/>
+  </a>
 </p>
 
 ---
