@@ -24,8 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahammadMobin&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
 ## ⏱️ My Contributions
 
 <p align="center">
