@@ -1,6 +1,6 @@
 <!-- Galactic Star Shower Animation -->
 <div align="center">
-  <img src="https://media.giphy.com/media/QMeW7YjvddYoQ/giphy.gif" alt="Star Shower" width="700"/>
+  <img src="https://media.giphy.com/media/3o6ZsXXqV12pPZ3zGo/giphy.gif" alt="Star Shower" width="700"/>
 </div>
 
 <h1 align="center">Hi 👋, I’m Your Name</h1>
@@ -9,16 +9,16 @@
 ---
 
 ## 👨‍💻 About Me
-- 📱 Crafting seamless **Android** experiences with **Kotlin**, **Java**, and **Jetpack Compose**  
+- 📱 Crafting native **Android** apps with **Kotlin**, **Java**, and **Jetpack Compose**  
 - 🎓 Pursuing **Software Engineering** (Data Science Major)  
-- 🤖 Integrating **AI/ML** into mobile apps for real-world impact  
-- 🚀 Passionate about **Open Source**, clean code, and elegant architecture  
+- 🤖 Embedding **AI/ML** into mobile solutions  
+- 🚀 Passionate about **Open Source**, clean architecture, and elegant UX
 
 ---
 
 ## 🛠️ Tech Stack & Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,android,compose,python,tensorflow,firebase,git,github,sql,linux,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,compose,python,tensorflow,firebase,git,numpy,pandas,jupyter,sqlite,linux,vscode,figma&theme=dark" />
 </p>
 
 ---
@@ -38,24 +38,37 @@
 
 ## 🌟 Achievements & Highlights
 - 🏅 Core Team, **Google Developer Student Club**  
-- 📱 Published Apps: [App One](#), [App Two](#)  
-- 🥇 Hackathon Winner – AI/ML × Mobile Integration  
-- 🤝 Open Source Contributor to popular Android & ML libraries  
-- 🔥 Solved 1000+ problems on coding platforms  
+- 📱 Deployed apps: [App One](#), [App Two](#)  
+- 🥇 Hackathon Winner – AI × Mobile  
+- 🤝 Open Source Contributor to Android & ML Libraries  
+- 💯 1,000+ problems solved on coding platforms  
 
 ---
 
 ## 🚀 Featured Projects
-- **E-Commerce App** – MVVM, Compose, Firebase, Smooth Animations  
-- **AI Image Classifier** – TensorFlow Lite, CameraX, Real-Time Results  
-- **Expense Tracker** – Clean Architecture, Room DB, Data Visualization  
-- **Student Dashboard** – Predictive Analytics & Modern UI/UX  
+- **E-Commerce Android App** – MVVM, Compose, Firebase, Material You  
+- **AI Image Classifier** – TensorFlow Lite & CameraX integration  
+- **Expense Tracker** – Room DB, Graph Views, Notifications  
+- **Student Dashboard** – Predictive Analytics + Modern UI  
 
 ---
 
 ## 🤝 Connect With Me  
 <p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
