@@ -17,10 +17,27 @@
 
 ---
 
-<h2 align="center">🐍 My GitHub Contribution Graph (Snake Animation)</h2>
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake.svg" width="700"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kibaheb&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibaheb&layout=compact&theme=tokyonight" height="180px"/>
 </p>
+
+---
+
+### 🔥 Contribution Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kibaheb&theme=tokyonight"/>
+</p>
+
+---
+
+### 🚀 GitHub Metrics Summary
+
+![Metrics](https://metrics.lecoq.io/kibaheb?template=classic&isocalendar=1&languages=1&lines=1&activity=1&stars=1&followup=1&config.timezone=Asia%2FDhaka)
+
 
 
 <p align="center">
