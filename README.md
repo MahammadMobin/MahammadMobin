@@ -17,12 +17,11 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🐍 My Contribution Graph (Snake Animation)</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,compose,python,tensorflow,pandas,numpy,jupyter,firebase,git,github,sqlite,linux,vscode,figma,docker,materialui&theme=dark" />
+  <img src="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake.svg" width="700"/>
 </p>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake.svg" width="700" alt="Contribution Snake Animation"/>
