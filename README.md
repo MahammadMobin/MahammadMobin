@@ -40,86 +40,39 @@
 
 <p align="center">
   <!-- Android -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="25"/> Android: Jetpack Compose, Material You, MVVM, Retrofit, Hilt, XML, Lottie
-  <br/>
-
-  <!-- Kotlin -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="25"/> Kotlin
-  <br/>
-
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java
-  <br/>
-
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python
-  <br/>
-
-  <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> SQL
-  <br/>
-
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="25"/> Pandas
-  <br/>
-
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="25"/> NumPy
-  <br/>
-
-  <!-- Matplotlib (no official icon, using Python logo) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Matplotlib
-  <br/>
-
-  <!-- Scikit-learn (no Devicon icon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"/> Scikit-learn
-  <br/>
-
-  <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="25"/> TensorFlow
-  <br/>
-
-  <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="25"/> Jupyter Notebook
-  <br/>
-
-  <!-- SQLite -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/> SQLite
-  <br/>
-
-  <!-- Room (custom needed) -->
-  <img src="https://developer.android.com/images/training/data-storage/room_architecture.png" width="25"/> Room
-  <br/>
-
-  <!-- Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25"/> Firebase Firestore
-  <br/>
-
-  <!-- GitHub Actions -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> CI/CD (GitHub Actions)
-  <br/>
-
-  <!-- Fastlane (custom logo) -->
-  <img src="https://fastlane.tools/assets/img/fastlane_icon.png" width="25"/> Fastlane
-  <br/>
-
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/> Docker
-  <br/>
-
-  <!-- Material Design -->
-  <img src="https://material.io/design/assets/images/social/social-share.png" width="25"/> Material Design
-  <br/>
-
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="25"/> Figma
-  <br/>
-
-  <!-- Adobe XD -->
-  <img src="https://cdn.iconscout.com/icon/free/png-256/adobe-xd-3521774-2945405.png" width="25"/> Adobe XD
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
 </p>
 
-   
+<p align="center">
+  <b>Android</b> &nbsp; • &nbsp;
+  <b>Kotlin</b> &nbsp; • &nbsp;
+  <b>Java</b> &nbsp; • &nbsp;
+  <b>Python</b> &nbsp; • &nbsp;
+  <b>SQL</b> &nbsp; • &nbsp;
+  <b>Pandas</b> &nbsp; • &nbsp;
+  <b>NumPy</b> &nbsp; • &nbsp;
+  <b>TensorFlow</b> &nbsp; • &nbsp;
+  <b>Jupyter</b> &nbsp; • &nbsp;
+  <b>SQLite</b> &nbsp; • &nbsp;
+  <b>Firebase</b> &nbsp; • &nbsp;
+  <b>GitHub Actions</b> &nbsp; • &nbsp;
+  <b>Docker</b> &nbsp; • &nbsp;
+  <b>Figma</b>
+</p>
+
 
 <h2 align="center">🏆 Achievements</h2>
 <ul>
