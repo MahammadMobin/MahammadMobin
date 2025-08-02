@@ -39,9 +39,8 @@
 <h2 align="center">🌈 Core Skills & Tools</h2>
 
 <p align="center">
-  <!-- Android -
-
- <img src="https://img.icons8.com/?size=100&id=bGD8ChgdMIJV&format=png&color=000000" width="50" title="Kotlin"/>
+  <!-- Android -->
+  <img src="https://img.icons8.com/?size=100&id=bGD8ChgdMIJV&format=png&color=000000" width="50" title="Kotlin"/>
 
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
@@ -87,8 +86,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
   <!-- Material Design -->
   <img src="https://material.io/static/images/material-design/overview-icon.svg" width="50" title="Material Design"/>
-
 </p>
+
 
 <p align="center">
   <b>Android</b> &nbsp; • &nbsp;
