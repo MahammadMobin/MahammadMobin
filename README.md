@@ -40,19 +40,59 @@
 
 <p align="center">
   <!-- Android -->
+<h2 align="center">🌈 Core Skills & Tools</h2>
+
+<p align="center">
+  <!-- Android -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" title="Android"/>
+  <!-- Kotlin -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" title="Kotlin"/>
+  <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
+  <!-- XML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="50" title="XML"/>
+  <!-- Jetpack Compose (using Android logo as placeholder) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" title="Jetpack Compose"/>
+  <!-- Material You (custom) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Material_Design_Icon.svg/2048px-Material_Design_Icon.svg.png" width="50" title="Material You"/>
+  <!-- MVVM (placeholder - no icon) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/MVVM_Architecture.png/320px-MVVM_Architecture.png" width="50" title="MVVM"/>
+  <!-- LiveData -->
+  <img src="https://developer.android.com/static/images/jetpack/arch_lifecycle_livedata.svg" width="50" title="LiveData"/>
+  <!-- ViewModel -->
+  <img src="https://developer.android.com/static/images/jetpack/arch_lifecycle_viewmodel.svg" width="50" title="ViewModel"/>
+  <!-- Navigation Component -->
+  <img src="https://developer.android.com/static/images/topic/libraries/architecture/navigation.svg" width="50" title="Navigation Component"/>
+  <!-- Room -->
+  <img src="https://developer.android.com/images/training/data-storage/room_architecture.png" width="50" title="Room"/>
+  <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase"/>
+  <!-- SQLite -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" title="SQLite"/>
+  <!-- Retrofit (custom) -->
+  <img src="https://square.github.io/retrofit/assets/logo.png" width="50" title="Retrofit"/>
+  <!-- Hilt / Dagger -->
+  <img src="https://dagger.dev/images/dagger-logo.png" width="50" title="Hilt / Dagger"/>
+  <!-- Coroutines -->
+  <img src="https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png" width="50" title="Coroutines"/>
+  <!-- Flow -->
+  <img src="https://kotlinlang.org/assets/images/favicons/favicon-32x32.png" width="50" title="Flow"/>
+  <!-- Lottie -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Lottie_logo.svg" width="50" title="Lottie"/>
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <!-- GitHub Actions -->
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50" title="GitHub Actions"/>
+  <!-- CI/CD -->
+  <img src="https://cdn-icons-png.flaticon.com/512/3845/3845731.png" width="50" title="CI/CD"/>
+  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+  <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
+  <!-- Material Design -->
+  <img src="https://material.io/static/images/material-design/overview-icon.svg" width="50" title="Material Design"/>
 </p>
+
 
 <p align="center">
   <b>Android</b> &nbsp; • &nbsp;
