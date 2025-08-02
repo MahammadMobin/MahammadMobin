@@ -37,16 +37,33 @@
 
 
 <h2 align="center">🌈 Core Skills & Tools</h2>
-<ul>
-  <li><b>Android:</b> Jetpack Compose, Material You, MVVM, Retrofit, Hilt, XML, Lottie</li>
-  <li><b>Languages:</b> Kotlin, Java, Python, SQL</li>
-  <li><b>ML & Data:</b> Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Jupyter</li>
-  <li><b>Database:</b> SQLite, Room, Firebase Firestore</li>
-  <li><b>Devops:</b> CI/CD (GitHub Actions, Fastlane), Docker</li>
-  <li><b>Design:</b> Material Design, Figma, Adobe XD</li>
-</ul>
 
----
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30"/></td>
+    <td><b>Android:</b> Jetpack Compose, Material You, MVVM, Retrofit, Hilt, XML, Lottie</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30"/></td>
+    <td><b>Languages:</b> Kotlin, Java, Python, SQL</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></td>
+    <td><b>ML & Data:</b> Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Jupyter</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30"/></td>
+    <td><b>Database:</b> SQLite, Room, Firebase Firestore</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/></td>
+    <td><b>DevOps:</b> CI/CD (GitHub Actions, Fastlane), Docker</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/></td>
+    <td><b>Design:</b> Material Design, Figma, Adobe XD</td>
+  </tr>
+</table>
 
 <h2 align="center">🏆 Achievements</h2>
 <ul>
