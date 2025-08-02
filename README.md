@@ -41,13 +41,17 @@
 <p align="center">
   <!-- Android -->
   <img src="https://img.icons8.com/?size=100&id=114405&format=png&color=000000" width="50" title="Android"/>
+
   
   <img src="https://img.icons8.com/?size=100&id=bGD8ChgdMIJV&format=png&color=000000" width="50" title="Kotlin"/>
 
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-  <!-- XML -->
-  <img src="https://img.icons8.com/?size=100&id=10238&format=png&color=000000" width="50" title="Icon"/>
+  <!-- XML 
+  
+<img src="https://img.icons8.com/?size=100&id=2321&format=png&color=000000" width="50" title="Icon"/>
+
+
   <!-- Jetpack Compose -->
   <img src="https://developer.android.com/images/jetpack/compose-graphics.svg" width="50" title="Jetpack Compose"/>
   <!-- Material You -->
