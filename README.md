@@ -40,37 +40,45 @@
 
 <p align="center">
   <!-- Android -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub Actions"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" title="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="50" title="XML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
 </p>
 
 <p align="center">
   <b>Android</b> &nbsp; • &nbsp;
   <b>Kotlin</b> &nbsp; • &nbsp;
   <b>Java</b> &nbsp; • &nbsp;
-  <b>Python</b> &nbsp; • &nbsp;
-  <b>SQL</b> &nbsp; • &nbsp;
-  <b>Pandas</b> &nbsp; • &nbsp;
-  <b>NumPy</b> &nbsp; • &nbsp;
-  <b>TensorFlow</b> &nbsp; • &nbsp;
-  <b>Jupyter</b> &nbsp; • &nbsp;
-  <b>SQLite</b> &nbsp; • &nbsp;
+  <b>XML</b> &nbsp; • &nbsp;
+  <b>Jetpack Compose</b> &nbsp; • &nbsp;
+  <b>Material You</b> &nbsp; • &nbsp;
+  <b>MVVM</b> &nbsp; • &nbsp;
+  <b>LiveData</b> &nbsp; • &nbsp;
+  <b>ViewModel</b> &nbsp; • &nbsp;
+  <b>Navigation Component</b> &nbsp; • &nbsp;
+  <b>Room</b> &nbsp; • &nbsp;
   <b>Firebase</b> &nbsp; • &nbsp;
+  <b>SQLite</b> &nbsp; • &nbsp;
+  <b>Retrofit</b> &nbsp; • &nbsp;
+  <b>Hilt / Dagger</b> &nbsp; • &nbsp;
+  <b>Coroutines</b> &nbsp; • &nbsp;
+  <b>Flow</b> &nbsp; • &nbsp;
+  <b>Lottie</b> &nbsp; • &nbsp;
+  <b>Git</b> &nbsp; • &nbsp;
   <b>GitHub Actions</b> &nbsp; • &nbsp;
+  <b>CI/CD</b> &nbsp; • &nbsp;
   <b>Docker</b> &nbsp; • &nbsp;
-  <b>Figma</b>
+  <b>Figma</b> &nbsp; • &nbsp;
+  <b>Material Design</b>
 </p>
 
 
