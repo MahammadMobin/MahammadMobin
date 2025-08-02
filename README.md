@@ -41,9 +41,9 @@
 <p align="center">
   <!-- Android -
 
-  <!-- Android -->
-<img src="https://img.icons8.com/?size=100&id=114405&format=png&color=000000" width="50" title="Android"/>
-<!-- Kotlin -->
+
+  <img src="https://img.icons8.com/?size=100&id=114405&format=png&color=000000" width="50" title="Skill 1"/>  
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" title="Kotlin"/>
 
  <img src="https://img.icons8.com/?size=100&id=bGD8ChgdMIJV&format=png&color=000000" width="50" title="Kotlin++"/>
