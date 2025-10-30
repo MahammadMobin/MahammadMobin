@@ -141,16 +141,6 @@
 
 ---
 
-## 🐍 Watch My Contribution Graph Get Eaten by a Snake!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MahammadMobin/MahammadMobin/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
 <p align="center">
@@ -175,25 +165,24 @@
   <img src="https://komarev.com/ghpvc/?username=MahammadMobin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
----
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="100" alt="Kotlin">
+  <br><i> Life is Strange Before the Storm... </i>
+</p>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e7d32,100:1a237e&height=120&section=header&text=🐍%20Snake%20Zone%20🐍&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation - Paste Green Color" width="100%"/>
 </p>
 
 <div align="center">
-  
-### 🚀 "Building the future, one commit at a time!"
-
-**⭐ If you find my projects interesting, feel free to star them!**
-
-*Last updated: October 2025*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:2e7d32&height=80&section=footer" width="100%"/>
 </div>
-
-
-
-
 
 
 
