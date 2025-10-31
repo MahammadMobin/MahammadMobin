@@ -95,7 +95,7 @@
 
 ---
 
-### 🛒 [ShopEasy - E-Commerce Mobile App](https://github.com/MahammadMobin/shopeasy)
+### 🛒 [ShopEasy - E-Commerce Mobile App]([https://github.com/MahammadMobin/shopeasy](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application.git)
 > Complete e-commerce platform with Firebase backend
 
 **Tech Stack:** Kotlin, MVVM, Firebase (Auth + Firestore), Cloudinary, Room Database
@@ -106,7 +106,7 @@
 - 💾 Hybrid data architecture (Firebase + Room for offline caching)
 - 🔒 Secure authentication with encrypted SharedPreferences
 
-**[View Source Code →](https://github.com/MahammadMobin/shopeasy)**
+**[View Source Code →]([https://github.com/MahammadMobin/shopeasy](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application.git))**
 
 ---
 
