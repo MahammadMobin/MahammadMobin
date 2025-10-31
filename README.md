@@ -10,11 +10,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-- 📱 **Android Developer:** Specializing in Kotlin, MVVM Architecture, and Modern Android Development
-- 🎓 **B.Sc in Software Engineering** (Major: Data Science) at Daffodil International University
-- 🏆 **NASA Space Apps Challenge 2024** - Global Nominee
-- 🚀 **Hult Prize 2024** - Senior Executive Volunteer
-- 💡 Building production-ready apps with Room Database, Firebase, Retrofit & Jetpack Compose
+Android Developer passionate about building apps that merge technology with real-world impact. I love exploring the intersection of mobile development, machine learning, and 3D graphics — from creating Android apps with Room Database and MVVM to experimenting with Unreal Engine for immersive Earth visualizations. Currently diving deep into ML Kit integration for on-device intelligence and exploring Kotlin Multiplatform. When I'm not coding, I'm fascinated by space science, classical music (especially Vivaldi), and finding creative ways to solve complex problems. Let's build something innovative together! 🚀
 
 ---
 
@@ -37,26 +33,13 @@
 
 ---
 
-<h2 align="center">🌈 Technical Skills</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Room_Database-006D77?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<h2 align="center"> Technical Skills</h2>
 
-**Languages:** Kotlin · Java · Python  
-**Android:** Android SDK · Android Studio · Jetpack Compose · Material Design · MVVM · Clean Architecture  
-**Database:** Room Database · SQLite · Firebase Firestore · Supabase  
-**Networking:** Retrofit · OkHttp · RESTful APIs  
-**Tools:** Git · GitHub · Gradle · Firebase Auth  
+**`💜 Kotlin`** · **`🟠 Java`** · **`🔵 Python`** · **`🟢 Android SDK`** · **`🎨 Android Studio`** · **`💙 Jetpack Compose`** · **`🟣 Material Design`** · **`🔴 MVVM Architecture`** · **`🟡 Clean Architecture`** · **`📦 RecyclerView`** · **`🗄️ Room Database`** · **`📊 SQLite`** · **`🔥 Firebase Firestore`** · **`🟢 Retrofit`** · **`🌐 OkHttp`** · **`🔗 RESTful APIs`** · **`🔐 Firebase Authentication`** · **`💜 Supabase`** · **`💾 SharedPreferences`** · **`⚫ Git`** · **`🐙 GitHub`** · **`🟪 Gradle`** · **`💻 VS Code`** · **`🤖 AI-Assisted Development`** · **`🎮 Unreal Engine`** · **`🎨 3D Graphics`** · **`📈 Data Visualization`**
 
 ---
+
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -105,14 +88,6 @@
 
 ---
 
-## 💻 Currently Building
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="100" alt="Kotlin">
-  <br><i>💚 Life is Strange Before the Storm...</i>
-</p>
-
----
 
 ## 📈 Contribution Activity
 
@@ -193,10 +168,12 @@
 
 <div align="center">
   
-### 🚀 "Building the future, one commit at a time!"
 
-**⭐ If you find my projects interesting, feel free to star them!**
 
-*Last updated: November 2025*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="100" alt="Kotlin">
+  <br><i>💚 Life is Strange Before the Storm...</i>
+</p>
+
 
 </div>
