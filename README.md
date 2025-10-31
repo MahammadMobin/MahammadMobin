@@ -1,8 +1,3 @@
-
-
-
-
-
 <!-- Android Robot Banner -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Robot" width="90"/>
@@ -65,7 +60,7 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-### 📝 [Notes with Gemini - AI-Powered Notes App](https://github.com/MahammadMobin/notes-gemini)
+### 📝 [Notes with Gemini - AI-Powered Notes App](https://github.com/MahammadMobin/Google-Note)
 > Modern note-taking app with AI chatbot integration
 
 **Tech Stack:** Kotlin, MVVM, Jetpack Compose, Room Database, Retrofit, Google Gemini API
@@ -76,11 +71,11 @@
 - 📌 Pin & search functionality with offline-first architecture
 - 🎨 Built with Jetpack Compose for modern, responsive UI
 
-**[View Source Code →](https://github.com/MahammadMobin/notes-gemini)**
+**[View Source Code →](https://github.com/MahammadMobin/Google-Note)**
 
 ---
 
-### 🍔 [Foodi - Food Delivery Application](https://github.com/MahammadMobin/foodi-app)
+### 🍔 [Foodi - Food Delivery Application](https://github.com/MahammadMobin/Foodi-Food_Delivery_Application)
 > Full-featured food delivery app with real-time order tracking
 
 **Tech Stack:** Kotlin, MVVM, Firebase (Auth + Firestore), Supabase, Retrofit, Room Database
@@ -91,11 +86,11 @@
 - 📱 Offline-first architecture with Room Database
 - 🎨 Material Design UI with RecyclerView optimization
 
-**[View Source Code →](https://github.com/MahammadMobin/foodi-app)**
+**[View Source Code →](https://github.com/MahammadMobin/Foodi-Food_Delivery_Application)**
 
 ---
 
-### 🛒 [ShopEasy - E-Commerce Mobile App]([https://github.com/MahammadMobin/shopeasy](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application.git)
+### 🛒 [ShopEasy - E-Commerce Mobile App](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application)
 > Complete e-commerce platform with Firebase backend
 
 **Tech Stack:** Kotlin, MVVM, Firebase (Auth + Firestore), Cloudinary, Room Database
@@ -106,7 +101,16 @@
 - 💾 Hybrid data architecture (Firebase + Room for offline caching)
 - 🔒 Secure authentication with encrypted SharedPreferences
 
-**[View Source Code →]([https://github.com/MahammadMobin/shopeasy](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application.git))**
+**[View Source Code →](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application)**
+
+---
+
+## 💻 Currently Building
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="100" alt="Kotlin">
+  <br><i>💚 Life is Strange Before the Storm...</i>
+</p>
 
 ---
 
@@ -115,6 +119,22 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahammadMobin&theme=tokyo-night&hide_border=true&area=true" width="96%"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e7d32,100:1a237e&height=120&section=header&text=🐍%20Snake%20Zone%20🐍&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation - Paste Green Color" width="100%"/>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:2e7d32&height=80&section=footer" width="100%"/>
+</div>
 
 ---
 
@@ -147,7 +167,7 @@
   <a href="mailto:osmanfarukmobin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/mahammad-mobin">
+  <a href="https://www.linkedin.com/in/mahammad-osman-faruk-mobin-9a677a267/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/MahammadMobin">
@@ -165,28 +185,18 @@
   <img src="https://komarev.com/ghpvc/?username=MahammadMobin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="100" alt="Kotlin">
-  <br><i> Life is Strange Before the Storm... </i>
-</p>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e7d32,100:1a237e&height=120&section=header&text=🐍%20Snake%20Zone%20🐍&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation - Paste Green Color" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:2e7d32&height=80&section=footer" width="100%"/>
+  
+### 🚀 "Building the future, one commit at a time!"
+
+**⭐ If you find my projects interesting, feel free to star them!**
+
+*Last updated: November 2025*
+
 </div>
-
-
-
-
-
-
-
