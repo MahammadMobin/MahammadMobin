@@ -52,7 +52,7 @@ Android Developer passionate about building apps that merge technology with real
 - ✨ AI-powered chatbot for instant conversational responses using Google Gemini API
 - 📚 Comprehensive notes management with complete CRUD operations
 - 📌 Pin & search functionality with offline-first architecture
-- 🎨 Built with Jetpack Compose for modern, responsive UI
+- 🎨 Built with modern and responsive UI
 - 💾 Room Database for persistent local storage
 - 🌐 Retrofit integration for API calls
 
@@ -96,7 +96,6 @@ Android Developer passionate about building apps that merge technology with real
 **[View Source Code →](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application)**
 
 ---
-
 
 ## 📈 Contribution Activity
 
