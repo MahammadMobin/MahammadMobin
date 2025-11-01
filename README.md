@@ -46,13 +46,16 @@ Android Developer passionate about building apps that merge technology with real
 ### 📝 [Notes with Gemini - AI-Powered Notes App](https://github.com/MahammadMobin/Google-Note)
 > Modern note-taking app with AI chatbot integration
 
-**Tech Stack:** Kotlin, MVVM, Jetpack Compose, Room Database, Retrofit, Google Gemini API
+**Tech Stack:** Kotlin · MVVM · Jetpack Compose · Room Database · Retrofit · Google Gemini API
 
 **Features:**
 - ✨ AI-powered chatbot for instant conversational responses using Google Gemini API
-- 📚 Comprehensive notes management with full CRUD operations
+- 📚 Comprehensive notes management with complete CRUD operations
 - 📌 Pin & search functionality with offline-first architecture
 - 🎨 Built with Jetpack Compose for modern, responsive UI
+- 💾 Room Database for persistent local storage
+- 🌐 Retrofit integration for API calls
+
 
 **[View Source Code →](https://github.com/MahammadMobin/Google-Note)**
 
@@ -61,13 +64,16 @@ Android Developer passionate about building apps that merge technology with real
 ### 🍔 [Foodi - Food Delivery Application](https://github.com/MahammadMobin/Foodi-Food_Delivery_Application)
 > Full-featured food delivery app with real-time order tracking
 
-**Tech Stack:** Kotlin, MVVM, Firebase (Auth + Firestore), Supabase, Retrofit, Room Database
+**Tech Stack:** Kotlin · MVVM · Firebase (Auth + Firestore) · Supabase · Retrofit · Room Database
 
 **Features:**
-- 🍽️ Dynamic restaurant browsing with menu filtering
-- 🔐 Secure authentication (Firebase Auth + Supabase)
-- 📱 Offline-first architecture with Room Database
-- 🎨 Material Design UI with RecyclerView optimization
+- 🍽️ Dynamic restaurant browsing with real-time menu filtering
+- 🔐 Secure authentication (Firebase Auth + Supabase integration)
+- 📱 Offline-first architecture with Room Database caching
+- 🎨 Material Design UI with optimized RecyclerView rendering
+- 🔄 Real-time synchronization across multiple backends
+- ⚡ Kotlin Coroutines for non-blocking operations
+
 
 **[View Source Code →](https://github.com/MahammadMobin/Foodi-Food_Delivery_Application)**
 
@@ -76,13 +82,16 @@ Android Developer passionate about building apps that merge technology with real
 ### 🛒 [ShopEasy - E-Commerce Mobile App](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application)
 > Complete e-commerce platform with Firebase backend
 
-**Tech Stack:** Kotlin, MVVM, Firebase (Auth + Firestore), Cloudinary, Room Database
+**Tech Stack:** Kotlin · MVVM · Firebase (Auth + Firestore) · Cloudinary · Room Database
 
 **Features:**
-- 🛍️ Real-time product browsing with Firebase Firestore
-- 🖼️ Image optimization using Cloudinary CDN
+- 🛍️ Real-time product browsing with Firebase Firestore synchronization
+- 🖼️ Image optimization using Cloudinary CDN for fast delivery
 - 💾 Hybrid data architecture (Firebase + Room for offline caching)
 - 🔒 Secure authentication with encrypted SharedPreferences
+- 🎨 Material Design UI with smooth animations
+- 📱 Responsive layouts with modern Android components
+
 
 **[View Source Code →](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application)**
 
