@@ -161,19 +161,18 @@ Android Developer passionate about building apps that merge technology with real
 </p>
 
 ---
+  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="100" alt="Kotlin">
+  <br><i>☔ Life is Strange Before the Storm...</i>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <div align="center">
-  
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="100" alt="Kotlin">
-  <br><i>💚 Life is Strange Before the Storm...</i>
-</p>
 
 
 </div>
