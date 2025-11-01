@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=750&color=43A047&center=true&vCenter=true&width=900&lines=Assalamu+Alaikum;Hi+I'm+Mahammad+Mobin+-+Android+Developer;B.Sc+in+Software+Engineering+%7C+DIU,+Bangladesh;Building+Modern+Apps+with+MVVM,+Room+%26+Firebase;NASA+Space+Apps+Challenge+2024+Global+Nominee!" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=750&color=43A047&center=true&vCenter=true&width=900&lines=Assalamu+Alaikum;Hi+I'm+Mahammad+Mobin+-+Android+Developer;B.Sc+in+Software+Engineering+major+in+Data+Science%7C+DIU,+Bangladesh;Building+Modern+Apps+with+MVVM+%26+Kotlin;Code+Crafted+with+Passion+%26+Innovation;Let's+Create+Something+Extraordinary!" alt="Animated Typing"/>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
