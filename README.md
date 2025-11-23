@@ -10,7 +10,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-Android Developer passionate about building apps that merge technology with real-world impact. I love exploring the intersection of mobile development, machine learning, and 3D graphics — from creating Android apps with Room Database and MVVM to experimenting with Unreal Engine for immersive Earth visualizations. Currently diving deep into ML Kit integration for on-device intelligence and exploring Kotlin Multiplatform. When I'm not coding, I'm fascinated by space science, classical music (especially Vivaldi), and finding creative ways to solve complex problems. Let's build something innovative together! 🚀
+Android Developer passionate about building apps that merge technology with real-world impact. I love exploring the intersection of mobile development, machine learning, and 3D graphics — from creating Android apps with Room Database and MVVM to experimenting with Unreal Engine for immersive Earth visualizations. Currently diving deep into ML Kit integration for on-device intelligence and exploring Kotlin Multiplatform. When I'm not coding, I'm fascinated by space science and finding creative ways to solve complex problems. Let's build something innovative together! 🚀
 
 ---
 
