@@ -1,16 +1,32 @@
 <!-- Android Robot Banner -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Robot" width="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Robot" width="100"/>
 </p>
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=750&color=43A047&center=true&vCenter=true&width=900&lines=Assalamu+Alaikum;Hi+I'm+Mahammad+Mobin+-+Android+Developer;B.Sc+in+Software+Engineering+major+in+Data+Science%7C+DIU,+Bangladesh;Building+Modern+Apps+with+MVVM+%26+Kotlin;Code+Crafted+with+Passion+%26+Innovation;Let's+Create+Something+Extraordinary!" alt="Animated Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=750&color=43A047&center=true&vCenter=true&width=900&lines=Assalamu+Alaikum+%F0%9F%91%8B;Hi+I'm+Mahammad+Mobin+-+Android+Developer;B.Sc+Software+Engineering+%7C+Data+Science+%7C+DIU;Building+Modern+Apps+with+MVVM+%26+Kotlin;3+Production+Android+Apps+Shipped+%F0%9F%9A%80;NLP+Researcher+%7C+LLM+Safety+%7C+Clinical+AI;NASA+Space+Apps+2024+Global+Nominee+%F0%9F%8C%8D;Code+Crafted+with+Passion+%26+Innovation!" alt="Animated Typing"/>
 </p>
+
+<p align="center">
+  <a href="mailto:osmanfarukmobin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahammad-osman-faruk-mobin-9a677a267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MahammadMobin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-Android Developer passionate about building apps that merge technology with real-world impact. I love exploring the intersection of mobile development, machine learning, and 3D graphics — from creating Android apps with Room Database and MVVM to experimenting with Unreal Engine for immersive Earth visualizations. Currently diving deep into ML Kit integration for on-device intelligence and exploring Kotlin Multiplatform. When I'm not coding, I'm fascinated by space science and finding creative ways to solve complex problems. Let's build something innovative together! 🚀
+Android Developer passionate about building apps that merge technology with real-world impact. I love exploring the intersection of mobile development, machine learning, and 3D graphics — from creating Android apps with Room Database and MVVM to experimenting with Unreal Engine for immersive Earth visualizations.
+
+Alongside development, I do NLP research in clinical AI and LLM safety — with **3 papers currently under review** at PLOS Digital Health, PLOS ONE, and Astronomy & Computing. Currently diving deep into ML Kit integration for on-device intelligence and exploring Kotlin Multiplatform. When I'm not coding, I'm fascinated by space science. 🚀
+
+```
+🏠 Dhaka, Bangladesh          🎓 BSc Software Engineering · Expected Dec 2026
+📱 3 Android Apps Shipped     🔬 3 Research Papers Under Review
+🌍 NASA Space Apps 2024 — Global Nominee
+```
 
 ---
 
@@ -33,17 +49,17 @@ Android Developer passionate about building apps that merge technology with real
 
 ---
 
+<h2 align="center">🛠️ Technical Skills</h2>
 
-<h2 align="center"> Technical Skills</h2>
+**`💜 Kotlin`** · **`🟠 Java`** · **`🔵 Python`** · **`🟢 Android SDK`** · **`🎨 Android Studio`** · **`💙 Jetpack Compose`** · **`🟣 Material Design`** · **`🔴 MVVM Architecture`** · **`🟡 Clean Architecture`** · **`📦 RecyclerView`** · **`🗄️ Room Database`** · **`📊 SQLite`** · **`🔥 Firebase Firestore`** · **`🟢 Retrofit`** · **`🌐 OkHttp`** · **`🔗 RESTful APIs`** · **`🔐 Firebase Authentication`** · **`💜 Supabase`** · **`💾 SharedPreferences`** · **`⚫ Git`** · **`🐙 GitHub`** · **`🟪 Gradle`** · **`🤖 AI-Assisted Development`** · **`🎮 Unreal Engine`** · **`🎨 3D Graphics`** · **`📈 Data Visualization`**
 
-**`💜 Kotlin`** · **`🟠 Java`** · **`🔵 Python`** · **`🟢 Android SDK`** · **`🎨 Android Studio`** · **`💙 Jetpack Compose`** · **`🟣 Material Design`** · **`🔴 MVVM Architecture`** · **`🟡 Clean Architecture`** · **`📦 RecyclerView`** · **`🗄️ Room Database`** · **`📊 SQLite`** · **`🔥 Firebase Firestore`** · **`🟢 Retrofit`** · **`🌐 OkHttp`** · **`🔗 RESTful APIs`** · **`🔐 Firebase Authentication`** · **`💜 Supabase`** · **`💾 SharedPreferences`** · **`⚫ Git`** · **`🐙 GitHub`** · **`🟪 Gradle`** · **`💻 VS Code`** · **`🤖 AI-Assisted Development`** · **`🎮 Unreal Engine`** · **`🎨 3D Graphics`** · **`📈 Data Visualization`**
+**Research & ML:** `PyTorch` · `Hugging Face Transformers` · `scikit-learn` · `NumPy` · `Pandas` · `NLP` · `LLMs` · `XAI` · `Text Mining` · `Computer Vision`
 
 ---
 
+<h2 align="center">🚀 Featured Android Projects</h2>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-### 📝 [Notes with Gemini - AI-Powered Notes App](https://github.com/MahammadMobin/Google-Note)
+### 📝 [Notes with Gemini — AI-Powered Notes App](https://github.com/MahammadMobin/Google-Note)
 > Modern note-taking app with AI chatbot integration
 
 **Tech Stack:** Kotlin · MVVM · Jetpack Compose · Room Database · Retrofit · Google Gemini API
@@ -52,16 +68,15 @@ Android Developer passionate about building apps that merge technology with real
 - ✨ AI-powered chatbot for instant conversational responses using Google Gemini API
 - 📚 Comprehensive notes management with complete CRUD operations
 - 📌 Pin & search functionality with offline-first architecture
-- 🎨 Built with modern and responsive UI
+- 🎨 Built with modern and responsive UI using Jetpack Compose
 - 💾 Room Database for persistent local storage
-- 🌐 Retrofit integration for API calls
-
+- 🌐 Retrofit integration for seamless API calls
 
 **[View Source Code →](https://github.com/MahammadMobin/Google-Note)**
 
 ---
 
-### 🍔 [Foodi - Food Delivery Application](https://github.com/MahammadMobin/Foodi-Food_Delivery_Application)
+### 🍔 [Foodi — Food Delivery Application](https://github.com/MahammadMobin/Foodi-Food_Delivery_Application)
 > Full-featured food delivery app with real-time order tracking
 
 **Tech Stack:** Kotlin · MVVM · Firebase (Auth + Firestore) · Supabase · Retrofit · Room Database
@@ -74,12 +89,11 @@ Android Developer passionate about building apps that merge technology with real
 - 🔄 Real-time synchronization across multiple backends
 - ⚡ Kotlin Coroutines for non-blocking operations
 
-
 **[View Source Code →](https://github.com/MahammadMobin/Foodi-Food_Delivery_Application)**
 
 ---
 
-### 🛒 [ShopEasy - E-Commerce Mobile App](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application)
+### 🛒 [ShopEasy — E-Commerce Mobile App](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application)
 > Complete e-commerce platform with Firebase backend
 
 **Tech Stack:** Kotlin · MVVM · Firebase (Auth + Firestore) · Cloudinary · Room Database
@@ -91,7 +105,6 @@ Android Developer passionate about building apps that merge technology with real
 - 🔒 Secure authentication with encrypted SharedPreferences
 - 🎨 Material Design UI with smooth animations
 - 📱 Responsive layouts with modern Android components
-
 
 **[View Source Code →](https://github.com/MahammadMobin/ShopEasy-E-commerce_Mobile_Application)**
 
@@ -112,7 +125,7 @@ Android Developer passionate about building apps that merge technology with real
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation - Paste Green Color" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation" width="100%"/>
 </p>
 
 <div align="center">
@@ -121,45 +134,53 @@ Android Developer passionate about building apps that merge technology with real
 
 ---
 
+<h2 align="center">🔬 Research (Alongside Development)</h2>
+
+> 3 papers currently under review — building AI that explains itself, grounded in real science.
+
+| Paper | Journal | Highlight |
+|-------|---------|-----------|
+| 🧠 Clinical Psychology-Informed Hybrid Transformer for Suicide Risk Analysis | *PLOS Digital Health* | **97.81% macro F1** on 232k Reddit posts |
+| ⚠️ Emotional Manipulation Attacks on LLMs: Alignment-Induced Compliance Failures | *PLOS ONE* | True ASR **49.74%** across 11 LLMs (3B–14B) |
+| 🔭 Hybrid Deep Learning for Morphological Classification of Planetary Nebulae | *Astronomy and Computing* | **94.24% CV accuracy** · AUC > 0.96 |
+
+**Thesis (Ongoing):** Wellbeing to Crisis — A Five-Stage NLP Framework for Explainable Suicide Risk Assessment
+*Supervisor: Dr. Md. Fazla Elahe, PhD — DIU*
+
+---
+
 <h2 align="center">🏆 Achievements</h2>
 
-- 🌍 **NASA Space Apps Challenge 2024** - Global Nominee (Muzaffarabad, Pakistan)  
-  *Project: "The Butterfly Effect" - Simulating interconnected space systems*
-
-- 🎓 **Hult Prize 2024** - Senior Executive Volunteer at Daffodil International University  
-  *Coordinated volunteer efforts and mentored teams in social entrepreneurship*
-
-- 📱 **3 Production-Ready Android Applications** built with modern architecture patterns
-
-- 🎯 **Active GitHub Contributor** - Continuously learning and building
+- 🌍 **NASA Space Apps Challenge 2024** — Global Nominee · "The Butterfly Effect" · Muzaffarabad, Pakistan
+- 🚀 **NASA Space Apps Challenge 2025** — Galactic Problem Solver · "Window to Earth" in Unreal Engine
+- 🎓 **Hult Prize 2024** — Senior Executive · DIU · Coordinated 50+ volunteers · Mentored 20+ teams
+- 🤖 **UIU CSE FEST 2025** — Project Show Contender · Team "Castle Victorious" · Robotics
+- 💻 **ICSC 2025** — Qualification Round · 5 problems · All test cases passed
+- 🔭 **IAAC 2025** — Qualification Round · 5 astronomy & astrophysics problems solved
+- 📜 **Stanford Online** — Algorithms Specialization · Prof. Tim Roughgarden
+- 🌌 **NASA Digital Boarding Passes** — Artemis I & II · Parker Solar Probe · Mars 2020 · Europa Clipper
 
 ---
 
 ## 🌱 Currently Learning & Exploring
 
-- 🔥 **Kotlin Multiplatform (KMP)** - Building cross-platform apps
-- 🤖 **Jetpack Compose Navigation** - Advanced routing patterns  
-- 🧪 **Unit Testing with JUnit & Mockito** - TDD practices
-- 📊 **ML Kit Integration** - On-device machine learning for Android
+- 🔥 **Kotlin Multiplatform (KMP)** — Building cross-platform apps
+- 🤖 **Jetpack Compose Navigation** — Advanced routing patterns
+- 🧪 **Unit Testing with JUnit & Mockito** — TDD practices
+- 📊 **ML Kit Integration** — On-device machine learning for Android
 
 ---
 
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
 <p align="center">
-  <a href="mailto:osmanfarukmobin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mahammad-osman-faruk-mobin-9a677a267/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MahammadMobin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:osmanfarukmobin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahammad-osman-faruk-mobin-9a677a267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MahammadMobin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <i>💬 Open to internships, freelance projects, and tech collaborations!</i>
+  <i>💬 Open to internships, freelance projects, research collaborations, and tech opportunities!</i>
 </p>
 
 ---
@@ -169,7 +190,6 @@ Android Developer passionate about building apps that merge technology with real
 </p>
 
 ---
-  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="100" alt="Kotlin">
@@ -179,8 +199,3 @@ Android Developer passionate about building apps that merge technology with real
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-<div align="center">
-
-
-</div>
